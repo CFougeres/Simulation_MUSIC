@@ -1,4 +1,4 @@
-**User guide of MUSIC/ANL SIMULATION**
+**User guide of MUSIC/ANL SIMULATION of next anode generation**
 
 Author: C. Fougères (2023)
 Contact: chloe.fougeres@gmail.com
@@ -15,15 +15,13 @@ References:
 
 
 - *Installation*
->>>  git clone https://github.com/CFougeres/Simulation_MUSIC
+>>>  git clone https://github.com/CFougeres/Simulation_MUSIC/FutureAnode/
 
 
 - *Project structure*
   
 inputs.dat                  -->self explanatory
-
-exampleInputs/  
-
+ 
 codes/
  
 tree_results/         
@@ -34,11 +32,8 @@ documentation/              --> additional information and some figures resultin
   
 (a) in project directory
 
-MUSICsim.C 
->>>root codes/MUSICsim.C
+Sim.C 
+>>>root codes/Sim.C
 
-MUSICana.C 
->>>root codes/MUSICana.C
-
-MUSICcalib.C 
->>>root codes/MUSICcalib.C
+Ana.C 
+>>>root codes/Ana.C
