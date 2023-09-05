@@ -1,9 +1,7 @@
-**User guide of MUSIC/ANL SIMULATION of next anode generation**
+**Stopping Power Tables**
 
 Author: C. Fougères (2023)
 Contact: chloe.fougeres@gmail.com
-
-References: 
 
 
 - *Requirements*
@@ -15,25 +13,4 @@ References:
 
 
 - *Installation*
->>>  git clone -b FutureAnode https://github.com/CFougeres/Simulation_MUSIC/
-
-
-- *Project structure*
-  
-inputs.dat                  -->self explanatory
- 
-codes/
- 
-tree_results/         
-    
-documentation/              --> additional information and some figures resulting from the codes
-
-- *Codes*
-  
-(a) in project directory
-
-Sim.C 
->>>root codes/Sim.C
-
-Ana.C 
->>>root codes/Ana.C
+>>>  git clone -b StoPow https://github.com/CFougeres/Simulation_MUSIC/
