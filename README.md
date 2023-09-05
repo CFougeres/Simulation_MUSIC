@@ -35,10 +35,10 @@ documentation/              --> additional information and some figures resultin
 (a) in project directory
 
 MUSICsim.C 
->>>root build/MUSICsim.C
+>>>root codes/MUSICsim.C
 
 MUSICana.C 
->>>root build/MUSICana.C
+>>>root codes/MUSICana.C
 
 MUSICcalib.C 
->>>root build/MUSICcalib.C
+>>>root codes/MUSICcalib.C
