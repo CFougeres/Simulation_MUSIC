@@ -15,7 +15,7 @@ References:
 
 
 - *Installation*
->>>  git clone https://github.com/CFougeres/Simulation_MUSIC/FutureAnode/
+>>>  git clone https://github.com/CFougeres/Simulation_MUSIC/
 
 
 - *Project structure*
