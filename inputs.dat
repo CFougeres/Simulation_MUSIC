@@ -1,25 +1,26 @@
 0 GENERAL
-1 Ebeam 399.68926
-2 Gas 2 4 2.425
-3 Beam 37 87 -84.597802
-4 SPrefWindGasSi 1 10 0
-5 Pressure 500
-6 Nrecoil 5
-7 Zrecoil 37 38 39 39 39
-8 Arecoil 87 90 90 89 91
-9 Mrecoil -84.597802 -85.9509 -86.4969 -87.7112 -86.3513
-10 Exrecoil 0 0 0 0 0.551
-11 Nreac 10
-12 NEx 1
-13 dx 0.5
-14 FWHMstrip 0.4
-15 ChosenStrip 2
-16 LengthdE 4
-17 TTYcorrec 0
-18 cs 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
-19 errcs 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
-20 incSP 0.1
-21 Npressure 3
-22 PressureCalib 500 550 600
-23 FWHMsi 0.7
-24 Elim_plot 9 15
+1 HalfHeight 100
+2 DeadLayer 35.9
+3 PadDim 14.5
+4 AnodeDim 284 90
+5 DetectorDim 355.6 100
+6 Ebeam 399.68926
+7 Gas 2 4 2.425
+8 Beam 37 87 -84.597802
+9 SPrefWindGas 1 10
+10 Pressure 500
+11 Nrecoil 5
+12 Zrecoil 37 38 39 39 39
+13 Arecoil 87 90 90 89 91
+14 Mrecoil -84.597802 -85.9509 -86.4969 -87.7112 -86.3513
+15 Exrecoil 0 0 0 0 0.551
+16 Nreac 3
+17 NEx 1
+18 dx 0.5
+19 FWHMstrip 0.4
+20 ChosenPad 8 3
+21 LengthdE 4
+22 incSP 0.1
+23 ReactionChoice 1
+24 NReactionToPlot 1
+25 PlotLiveSim 1
